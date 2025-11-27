@@ -1,6 +1,6 @@
 # Welcome to your Lovable project
 
-#this is an lovable AI project
+#this is an lovable AI project created here
 
 ## Project info
 
