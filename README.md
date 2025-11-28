@@ -8,6 +8,10 @@
 
 ## How can I edit this code?
 
+#applied backend integration
+developed a new backend schema to evaluate movie review
+updated front end
+
 There are several ways of editing your application.
 
 **Use Lovable**
